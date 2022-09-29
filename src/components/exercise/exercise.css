@@ -1,0 +1,32 @@
+.exercise{
+    width: 300px;
+    height: 600px;
+    border: 3px solid salmon;
+    
+    border-radius: 10px;
+    position: relative;
+    
+}
+.exercise img{
+    width: 280px;
+    height: 280px;
+    margin: 7px;
+    border-radius: 8px;
+}
+.exercise.name{
+    font-weight: 400;
+    font-size: 21px;
+    
+}
+.add-btn{
+    width: 100%;
+    background-color: rgb(56, 56, 210);
+    border-radius: 8px;
+    position: absolute;
+    bottom: 5px;
+   
+    
+}
+.add-btn:hover{
+    background-color: aqua;
+}

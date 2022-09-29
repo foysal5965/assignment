@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1",
+    "name": "push-up",
+    "forage": "25-30",
+    "time": 60,
+    "img": "https://img.freepik.com/free-photo/young-fitness-man-studio_7502-5008.jpg?w=900&t=st=1664381793~exp=1664382393~hmac=3311a2c4d3a62f152cc7740735d3279b31480c8d15e1275c7080ce94a0c602ad",
+    "detail": "Pushups are a simple and effective bodyweight movement that can help increase strength in your "
+    
+  },
+  {
+    "id": "2",
+    "name": "Walking",
+    "forage": "30-4-",
+    "time": 50,
+    "img": "https://img.freepik.com/free-photo/marathon-girl-recreation-young-spring_1150-993.jpg?w=900&t=st=1664381871~exp=1664382471~hmac=168c4b2a93f6c50deca4fd79638363e33e2467f22199f7ab771305f30dde4258",
+    "detail": "Lift the bar from the rack, bend forward at the hips, and keep the back straight with a ."
+  },
+  {
+    "id": "3",
+    "name": "Bent-over Row",
+    "forage": "30-35",
+    "time": 40,
+    "img": "https://img.freepik.com/free-photo/marathon-girl-recreation-young-spring_1150-993.jpg?w=900&t=st=1664381871~exp=1664382471~hmac=168c4b2a93f6c50deca4fd79638363e33e2467f22199f7ab771305f30dde4258",
+    "detail": "Lift the bar from the rack, bend forward at the hips, and keep the back straight with a sl]t, and ."
+  },
+  {
+    "id": "4",
+    "name": "Lunges",
+    "forage": "30-40",
+    "time": 20,
+    "img": "https://img.freepik.com/free-photo/muscular-man-doing-push-ups-one-hand_7502-4775.jpg?t=st=1664362442~exp=1664363042~hmac=cc4c22609892d206fc81210d44e542fb3b040b222cb562fffee154dca762099a",
+    "detail": "Pushups are a simple and effective bodyweight movement that can help increase strength in your u"
+  },
+  {
+    "id": "5",
+    "name": "Abdominal Crunches.",
+    "forage": "40-50",
+    "time": 30,
+    "img": "https://www.freepik.com/free-photo/female-bodybuilder-training-with-dumbbells_8794712.html",
+    "detail": "Pushups are a simple and effective bodyweight movement that "
+  },
+  {
+    "id": "6",
+    "name": "Squats",
+    "forage": "40",
+    "time": 20,
+    "img": "https://img.freepik.com/free-photo/young-fitness-man-studio_7502-5008.jpg?t=st=1664381405~exp=1664382005~hmac=24c54ca8c3031215cf8c4b0c0c9e9683f692b0678a146ffe33f8b889d895d05e",
+    "detail": "Pushups are a simple and effective bodyweight movement that can help increase strength in your "
+  }
+]
